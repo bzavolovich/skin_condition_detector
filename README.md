@@ -55,3 +55,8 @@ Detected faces with bounding boxes.
 Highlighted areas indicating potential skin issues such as acne or redness.
 
 This algorithm was tested on a single image (acne1.png) located in the root of the repository. Using it on other images may lead to inaccurate results, and the algorithm needs to be adapted for more general cases.
+
+## links
+
+[Mediapipe face_mesh scheme](https://github.com/google-ai-edge/mediapipe/blob/e0eef9791ebb84825197b49e09132d3643564ee2/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png)
+
