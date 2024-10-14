@@ -1,0 +1,4 @@
+gradio
+mediapipe
+numpy
+opencv-contrib-python
